@@ -1,0 +1,21 @@
+[
+    {
+        "_id": "1",
+        "title": "Product 1",
+        "description": "Description 1",
+        "price": 100,
+        "category": "Electronics",
+        "dateOfSale": "2024-08-20",
+        "sold": true
+    },
+    {
+        "_id": "2",
+        "title": "Product 2",
+        "description": "Description 2",
+        "price": 200,
+        "category": "Clothing",
+        "dateOfSale": "2024-07-15",
+        "sold": true
+    }
+  
+]
